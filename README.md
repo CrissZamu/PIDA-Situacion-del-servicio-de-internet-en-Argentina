@@ -29,6 +29,10 @@ Con los datos obtenidos del ETL anteriror se realiza un analisis estadistco univ
 4. Diseño del dashboar (https://github.com/CrissZamu/PIDA-Situacion-del-servicio-de-internet-en-Argentina/blob/main/DASHBOARD.pbix).
 mediante power BI se vizualizan los datos y se diseña el tablero de kpi´s para ser presentado a la compañia mostando la información considerada relevante 
 
+https://github.com/CrissZamu/PIDA-Situacion-del-servicio-de-internet-en-Argentina/blob/main/dash%20h1.png
+
+https://github.com/CrissZamu/PIDA-Situacion-del-servicio-de-internet-en-Argentina/blob/main/dash%20h2.png
+
 
 
 
